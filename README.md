@@ -6,3 +6,5 @@ tenhle repozitar je prazdny a obsahuje
 -nulu
 -NULL
 -vubec nic
+
+## druhy podnatpis
